@@ -1,3 +1,3 @@
 # tiktokReactApp
  
-![Screenshot (105)](https://user-images.githubusercontent.com/94222401/230873879-ae992d07-dfd5-43c1-842a-3b5d88601b09.png)
+![Screenshot mm](https://user-images.githubusercontent.com/94222401/230874202-3f9ee74f-8e18-49e4-8e7d-92806531efba.png)
